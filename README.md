@@ -1,4 +1,4 @@
-![image](https://github.com/Kishore23008675/4.Execution_of_NetworkCommends/assets/144979375/759f94f5-c84e-40c6-b7b2-a59ed3e63f04)# 4.Execution_of_NetworkCommands
+# 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -70,11 +70,14 @@ CLIENT:
 
 
 SERVER:
-![Screenshot 2024-05-06 225958](https://github.com/Kishore23008675/4.Execution_of_NetworkCommends/assets/144979375/90a1f259-d1f1-49bc-be2e-4290b25127e9)
+
+![Screenshot 2024-05-06 230027](https://github.com/Kishore23008675/4.Execution_of_NetworkCommends/assets/144979375/502fb67e-4d94-48e8-8f57-e442d079733f)
 
 
- TRANCEROUTE COMMAND
-![Screenshot 2024-05-06 230027](https://github.com/Kishore23008675/4.Execution_of_NetworkCommends/assets/144979375/a9ef43da-4cd6-48b0-9809-a7e14461045f)
+ TRANCEROUTE COMMAND:
+ 
+![image](https://github.com/Kishore23008675/4.Execution_of_NetworkCommends/assets/144979375/4d85dad0-336f-46e5-a0f4-58c5a70e87c5)
+
 
 ## Result
 Thus Execution of Network commands Performed 
